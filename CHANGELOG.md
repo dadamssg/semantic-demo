@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/dadamssg/semantic-demo/compare/v1.0.0...v1.1.0) (2018-07-26)
+
+
+### Features
+
+* **math:** add minus function export ([b3f5cde](https://github.com/dadamssg/semantic-demo/commit/b3f5cde)), closes [#123](https://github.com/dadamssg/semantic-demo/issues/123)
+
 # 1.0.0 (2018-07-26)
 
 

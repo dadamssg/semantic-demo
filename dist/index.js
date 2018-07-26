@@ -1,9 +1,14 @@
-'use strict';
+"use strict";
 
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-
-exports.default = function () {
-  return 'testing';
+var add = function add(x, y) {
+  return x + y;
 };
+
+var minus = exports.minus = function minus(x, y) {
+  return x - y;
+};
+
+exports.default = add;
