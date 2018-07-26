@@ -3,6 +3,7 @@ const add = (x, y) => {
 }
 
 export const minus = (x, y) => {
+  // added patch
   return x - y
 }
 
