@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/dadamssg/semantic-demo/compare/v1.1.0...v2.0.0) (2018-07-26)
+
+
+### Code Refactoring
+
+* **math:** more descriptive function names ([cfa8f71](https://github.com/dadamssg/semantic-demo/commit/cfa8f71))
+
+
+### BREAKING CHANGES
+
+* **math:** Renamed add and minus
+
 # [1.1.0](https://github.com/dadamssg/semantic-demo/compare/v1.0.0...v1.1.0) (2018-07-26)
 
 

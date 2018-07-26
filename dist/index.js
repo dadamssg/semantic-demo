@@ -3,12 +3,12 @@
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-var add = function add(x, y) {
+var addNumbers = function addNumbers(x, y) {
   return x + y;
 };
 
-var minus = exports.minus = function minus(x, y) {
+var minusNumbers = exports.minusNumbers = function minusNumbers(x, y) {
   return x - y;
 };
 
-exports.default = add;
+exports.default = addNumbers;
