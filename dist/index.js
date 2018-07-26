@@ -8,6 +8,7 @@ var add = function add(x, y) {
 };
 
 var minus = exports.minus = function minus(x, y) {
+  // added patch
   return x - y;
 };
 

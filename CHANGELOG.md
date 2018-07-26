@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/dadamssg/semantic-demo/compare/v1.1.0...v1.1.1) (2018-07-26)
+
+
+### Bug Fixes
+
+* **math:** adds comment ([7b09eeb](https://github.com/dadamssg/semantic-demo/commit/7b09eeb))
+
 # [1.1.0](https://github.com/dadamssg/semantic-demo/compare/v1.0.0...v1.1.0) (2018-07-26)
 
 
