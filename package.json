@@ -36,7 +36,7 @@
   }
  },
  "release": {
-  "branch": "master",
+  "branch": "2x",
   "extends": "c2-semantic-release"
  },
  "devDependencies": {
