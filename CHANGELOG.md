@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/dadamssg/semantic-demo/compare/v2.0.2...v3.0.0) (2018-07-29)
+
+
+### Features
+
+* **lib:** add thing ([7c200a7](https://github.com/dadamssg/semantic-demo/commit/7c200a7))
+
+
+### BREAKING CHANGES
+
+* **lib:** add thing
+
 ## [2.0.2](https://github.com/dadamssg/semantic-demo/compare/v2.0.1...v2.0.2) (2018-07-29)
 
 
