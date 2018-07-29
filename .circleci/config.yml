@@ -22,6 +22,7 @@ jobs:
           key: v1-dependencies-{{ checksum "package.json" }}
       - run: yarn test
       - run: yarn build
+      - run: node print-date.js
       - run:
           command: yarn run semantic-release
           environment:
