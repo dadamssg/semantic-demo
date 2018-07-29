@@ -1,3 +1,17 @@
+# [4.0.0](https://github.com/dadamssg/semantic-demo/compare/v3.0.2...v4.0.0) (2018-07-29)
+
+
+### Features
+
+* **lib:** add thing ([52fe81d](https://github.com/dadamssg/semantic-demo/commit/52fe81d)), closes [#4](https://github.com/dadamssg/semantic-demo/issues/4) [#6](https://github.com/dadamssg/semantic-demo/issues/6)
+
+
+### BREAKING CHANGES
+
+* **lib:** this is a breakingdslkgjs gkjs gslkgj sdklgjs gkjsgksdjg dslgkjsd glskdjg slkgj
+sdglkjds gklsdjg sdglksdjgs dglskdgj sdglksjd glskjj gsdlkgj sdglksdjg sdlgkjds glsdkjg sdlgjsd
+glksdjg sdlgjks dglkjs gdskgjl sdgljks dgsklj gdsgkj gdlsj
+
 ## [3.0.2](https://github.com/dadamssg/semantic-demo/compare/v3.0.1...v3.0.2) (2018-07-29)
 
 
