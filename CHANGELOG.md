@@ -1,3 +1,10 @@
+## [3.0.1](https://github.com/dadamssg/semantic-demo/compare/v3.0.0...v3.0.1) (2018-07-29)
+
+
+### Bug Fixes
+
+* **release:** test config-assets ([4cb3921](https://github.com/dadamssg/semantic-demo/commit/4cb3921))
+
 # [3.0.0](https://github.com/dadamssg/semantic-demo/compare/v2.0.2...v3.0.0) (2018-07-29)
 
 

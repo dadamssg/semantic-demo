@@ -12,4 +12,8 @@ var minusNumbers = exports.minusNumbers = function minusNumbers(x, y) {
   return x - y;
 };
 
+var multiply = exports.multiply = function multiply(x, y) {
+  return x * y;
+};
+
 exports.default = addNumbers;
