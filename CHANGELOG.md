@@ -1,3 +1,10 @@
+## [2.0.2](https://github.com/dadamssg/semantic-demo/compare/v2.0.1...v2.0.2) (2018-07-29)
+
+
+### Bug Fixes
+
+* **lib:** add c2-semantic-release ([d1f3fdb](https://github.com/dadamssg/semantic-demo/commit/d1f3fdb))
+
 ## [2.0.1](https://github.com/dadamssg/semantic-demo/compare/v2.0.0...v2.0.1) (2018-07-26)
 
 
