@@ -40,6 +40,6 @@
   "extends": "c2-semantic-release"
  },
  "devDependencies": {
-  "c2-semantic-release": "ClearC2/c2-semantic-release"
+  "c2-semantic-release": "ClearC2/c2-semantic-release#config-assets"
  }
 }

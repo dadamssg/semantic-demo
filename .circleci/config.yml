@@ -25,4 +25,5 @@ jobs:
       - run:
           command: yarn run semantic-release
           environment:
+            ASSETS: "dist"
             TZ: "/usr/share/zoneinfo/America/Chicago"
