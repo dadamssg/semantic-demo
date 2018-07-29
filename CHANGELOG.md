@@ -1,3 +1,10 @@
+## [2.0.3](https://github.com/dadamssg/semantic-demo/compare/v2.0.2...v2.0.3) (2018-07-29)
+
+
+### Bug Fixes
+
+* **lib:** fix bug ([cb8e74b](https://github.com/dadamssg/semantic-demo/commit/cb8e74b))
+
 ## [2.0.2](https://github.com/dadamssg/semantic-demo/compare/v2.0.1...v2.0.2) (2018-07-29)
 
 
