@@ -3,11 +3,7 @@ jobs:
   build:
     docker:
       - image: circleci/node:8.11
-        environment:
-          TZ: "/usr/share/zoneinfo/America/Chicago"
     working_directory: ~/repo
-    environment:
-      TZ: "/usr/share/zoneinfo/America/Chicago"
     steps:
       - checkout
       - restore_cache:
@@ -23,8 +19,4 @@ jobs:
       - run: yarn test
       - run: yarn build
       - run: node print-date.js
-      - run:
-          command: yarn run semantic-release
-          environment:
-            ASSETS: "dist"
-            TZ: "/usr/share/zoneinfo/America/Chicago"
+      - run: yarn run semantic-release
