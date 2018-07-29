@@ -37,26 +37,9 @@
  },
  "release": {
   "branch": "master",
-  "npmPublish": false,
-  "verifyConditions": [
-   "@semantic-release/changelog",
-   "@semantic-release/github"
-  ],
-  "prepare": [
-   "@semantic-release/changelog",
-   "@semantic-release/npm",
-   {
-    "path": "@semantic-release/git",
-    "assets": [
-     "package.json",
-     "yarn.lock",
-     "CHANGELOG.md",
-     "dist"
-    ]
-   }
-  ],
-  "publish": [
-   "@semantic-release/github"
-  ]
+  "extends": "c2-semantic-release"
+ },
+ "devDependencies": {
+  "c2-semantic-release": "ClearC2/c2-semantic-release"
  }
 }

@@ -65,7 +65,7 @@
     micromatch "^3.1.4"
     p-reduce "^1.0.0"
 
-"@semantic-release/github@^5.0.0":
+"@semantic-release/github@^5.0.0", "@semantic-release/github@^5.0.1":
   version "5.0.1"
   resolved "https://registry.yarnpkg.com/@semantic-release/github/-/github-5.0.1.tgz#7be94947b4a32604ffda8e8f59b70ff5c04bea35"
   dependencies:
@@ -90,6 +90,24 @@
 "@semantic-release/npm@^4.0.0":
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/@semantic-release/npm/-/npm-4.0.0.tgz#ca16be65bdddece243c7950729c9c2381d76f683"
+  dependencies:
+    "@semantic-release/error" "^2.2.0"
+    aggregate-error "^1.0.0"
+    detect-indent "^5.0.0"
+    detect-newline "^2.1.0"
+    execa "^0.10.0"
+    fs-extra "^7.0.0"
+    lodash "^4.17.4"
+    nerf-dart "^1.0.0"
+    normalize-url "^3.0.0"
+    parse-json "^4.0.0"
+    rc "^1.2.8"
+    read-pkg "^4.0.0"
+    registry-auth-token "^3.3.1"
+
+"@semantic-release/npm@^4.0.1":
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/@semantic-release/npm/-/npm-4.0.1.tgz#366a9ed0c36d34e6c6c72d4a751f551a7128ebb6"
   dependencies:
     "@semantic-release/error" "^2.2.0"
     aggregate-error "^1.0.0"
@@ -986,6 +1004,18 @@ buffer-from@^1.0.0:
 builtin-modules@^1.0.0:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/builtin-modules/-/builtin-modules-1.1.1.tgz#270f076c5a72c02f5b65a47df94c5fe3a278892f"
+
+c2-semantic-release@ClearC2/c2-semantic-release:
+  version "1.0.0"
+  resolved "https://codeload.github.com/ClearC2/c2-semantic-release/tar.gz/177ed620dded2356d0a1564dd00964f6c21eca94"
+  dependencies:
+    "@semantic-release/changelog" "^3.0.0"
+    "@semantic-release/git" "^7.0.1"
+    "@semantic-release/github" "^5.0.1"
+    "@semantic-release/npm" "^4.0.1"
+    commitizen "^2.10.1"
+    cz-conventional-changelog "^2.1.0"
+    semantic-release "^15.8.1"
 
 cache-base@^1.0.1:
   version "1.0.1"
