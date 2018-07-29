@@ -1,3 +1,10 @@
+## [3.0.2](https://github.com/dadamssg/semantic-demo/compare/v3.0.1...v3.0.2) (2018-07-29)
+
+
+### Bug Fixes
+
+* **date:** debug date ([92be8f6](https://github.com/dadamssg/semantic-demo/commit/92be8f6))
+
 ## [3.0.1](https://github.com/dadamssg/semantic-demo/compare/v3.0.0...v3.0.1) (2018-07-29)
 
 
