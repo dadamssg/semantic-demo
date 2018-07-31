@@ -1,3 +1,10 @@
+## [4.0.1](https://github.com/dadamssg/semantic-demo/compare/v4.0.0...v4.0.1) (2018-07-31)
+
+
+### Performance Improvements
+
+* **blah:** blah blah blah ([6c14cef](https://github.com/dadamssg/semantic-demo/commit/6c14cef))
+
 # [4.0.0](https://github.com/dadamssg/semantic-demo/compare/v3.0.2...v4.0.0) (2018-07-29)
 
 
