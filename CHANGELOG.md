@@ -1,3 +1,15 @@
+# [6.0.0](https://github.com/dadamssg/semantic-demo/compare/v5.0.0...v6.0.0) (2018-09-19)
+
+
+### Code Refactoring
+
+* **thing:** blah blah ([5afb73e](https://github.com/dadamssg/semantic-demo/commit/5afb73e)), closes [#6](https://github.com/dadamssg/semantic-demo/issues/6)
+
+
+### BREAKING CHANGES
+
+* **thing:** this is the breaking change
+
 # [5.0.0](https://github.com/dadamssg/semantic-demo/compare/v4.0.2...v5.0.0) (2018-09-19)
 
 
